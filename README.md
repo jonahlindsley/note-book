@@ -8,6 +8,6 @@ this is my note taker app, I used the provided starter code and added the requir
 
 
 
-![deployed application screenshot](./assets/deployed-note-taker.png)
+![deployed application screenshot](./Develop/assets/deployed-note-taker.png)
 
 Jonah Lindsley.
