@@ -7,7 +7,7 @@
   ## Discription 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   this is an online application that lets users write and save notes for future use, notes have a title and can be deleted after they are no longer useful   .  
-  ![screenshot of deployed application.](note-book\Develop\assets\deployed-note-taker.png)
+  ![screenshot of deployed application.](Develop\assets\deployed-note-taker.png)
   ***
   ## table of contents
   [licence](#licence), 
